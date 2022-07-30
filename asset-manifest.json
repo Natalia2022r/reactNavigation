@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactNavigation/static/css/main.9e40eca5.css",
+    "main.js": "/reactNavigation/static/js/main.88929cc4.js",
+    "static/media/beach-418742_1920.jpg": "/reactNavigation/static/media/beach-418742_1920.984db8ef10609c072d86.jpg",
+    "static/media/sea-2361247_640.jpg": "/reactNavigation/static/media/sea-2361247_640.ccd2c5010c24a49d5373.jpg",
+    "static/media/hd-wallpaper-3021072_640.jpg": "/reactNavigation/static/media/hd-wallpaper-3021072_640.6c0b25b94fae39391ca6.jpg",
+    "static/media/maldives-1993704_640.jpg": "/reactNavigation/static/media/maldives-1993704_640.b95dd6499b803f2cc550.jpg",
+    "static/media/children.jpg": "/reactNavigation/static/media/children.9c0b94e6c1e938c08086.jpg",
+    "static/media/beach.jpg": "/reactNavigation/static/media/beach.d9329d719fc2b0069440.jpg",
+    "static/media/hd-wallpaper-1758197_640.jpg": "/reactNavigation/static/media/hd-wallpaper-1758197_640.8174cceb5dfd58fd1a00.jpg",
+    "static/media/hd-wallpaper-3605547_640.jpg": "/reactNavigation/static/media/hd-wallpaper-3605547_640.1405bcbf7d57a77cfea1.jpg",
+    "index.html": "/reactNavigation/index.html",
+    "main.9e40eca5.css.map": "/reactNavigation/static/css/main.9e40eca5.css.map",
+    "main.88929cc4.js.map": "/reactNavigation/static/js/main.88929cc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e40eca5.css",
+    "static/js/main.88929cc4.js"
+  ]
+}
