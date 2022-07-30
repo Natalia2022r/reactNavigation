@@ -7,7 +7,7 @@
 
     width: 100vw;
     height: 100vh;
-    background-image: url("../image/beach-418742_1920.jpg");
+    background-image: url("./../image/beach-418742_1920.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
